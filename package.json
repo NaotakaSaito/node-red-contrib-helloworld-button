@@ -1,0 +1,29 @@
+{
+  "name": "node-red-contrib-helloworld-button",
+  "version": "1.0.0",
+  "description": "mp3 playback",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red" : {
+	  "nodes": {
+		  "helloworld-button": "helloworld-button.js",
+		  "helloworld-button2": "helloworld-button2.js"
+	  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NaotakaSaito/node-red-contrib-helloworld-button.git"
+  },
+  "keywords": [
+    "node-red",
+    "mp3"
+  ],
+  "author": "Naotaka Saito",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NaotakaSaito/node-red-contrib-helloworld-button/issues"
+  },
+  "homepage": "https://github.com/NaotakaSaito/node-red-contrib-helloworld-button#readme"
+}
