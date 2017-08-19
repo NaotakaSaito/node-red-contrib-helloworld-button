@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-helloworld-button",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "example of node with button.",
   "main": "node.js",
   "scripts": {
